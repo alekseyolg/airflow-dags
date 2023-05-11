@@ -1,0 +1,3 @@
+[submodule "airflow-dags-kubernetes"]
+	path = airflow-dags-kubernetes
+	url = https://github.com/alekseyolg/airflow-dags-kubernetes.git
